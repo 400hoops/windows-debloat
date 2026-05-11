@@ -40,14 +40,17 @@ winget uninstall MSIX\Microsoft.MicrosoftEdge.Stable_148.0.3967.54_neutral__8wek
 winget uninstall MSIX\Microsoft.MicrosoftSolitaireCollection_4.24.12040.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.OutlookForWindows_1.2026.420.300_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.Todos_0.153.5851.0_x64__8wekyb3d8bbwe
-winget uninstall Microsoft.DevHome
+winget uninstall MSIX\Microsoft.Windows.DevHome_0.1700.597.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.WindowsAlarms_1.1.85.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.WindowsFeedbackHub_1.2512.16303.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.WindowsSoundRecorder_1.1.86.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.GamingApp_2512.900.38.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\Microsoft.Xbox.TCUI_1.23.28005.0_x64__8wekyb3d8bbwe
-winget uninstall MSIX\Microsoft.XboxGamingOverlay_7.325.7221.0_x64__8wekyb3d8bbwe
-winget uninstall MSIX\Microsoft.XboxIdentityProvider_12.130.2510.6003_x64__8wekyb3d8bbwe
-winget uninstall MSIX\Microsoft.XboxSpeechToTextOverlay_1.117.15001.0_x64__8wekyb3d8bbwe
-winget uninstall MSIX\Microsoft.YourPhone_0.25112.39.0_x64__8wekyb3d8bbwe
+winget uninstall MSIX\Microsoft.XboxGamingOverlay_7.326.4151.0_x64__8wekyb3d8bbwe
+winget uninstall winget uninstall MSIX\MSIX\MSIX\Microsoft.XboxGamingOverlay_7.326.4151.0_x64__8wekyb3d8bbwe
+winget uninstall MSIX\Microsoft.XboxIdentityProvider_12.130.16001.0_x64__8wekyb3d8bbwe
+winget uninstall MSIX\Microsoft.XboxSpeechToTextOverlay_1.111.30001.0_x64__8wekyb3d8bbwe
+winget uninstall MSIX\Microsoft.YourPhone_1.26022.64.0_x64__8wekyb3d8bbwe
 winget uninstall MSIX\MicrosoftCorporationII.QuickAssist_2.0.43.0_x64__8wekyb3d8bbwe
+winget uninstall MSIX\aimgr_0.20.47.0_x64__8wekyb3d8bbwe
+winget uninstall MSIX\Microsoft.XboxGamingOverlay_7.326.4151.0_x64__8wekyb3d8bbwe
